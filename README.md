@@ -71,15 +71,3 @@
 <img src="https://raw.githubusercontent.com/SaraMelo0/SaraMelo0/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<h3 align="left">Contato</h3>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/smelo0">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
