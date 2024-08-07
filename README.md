@@ -76,14 +76,6 @@
 
 ###
 
-<p align="left">Você pode entrar em contato comigo pelo LinkedIn ou pelo e-mail (melo.sara2019@gmail.com).</p>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/smelo0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left">Você pode entrar em contato comigo pelo <a href="www.linkedin.com/in/smelo0">LinkedIn</a> ou pelo e-mail (melo.sara2019@gmail.com).</p>
 
 ###
