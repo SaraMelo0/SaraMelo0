@@ -76,6 +76,6 @@
 
 ###
 
-<p align="left">Você pode entrar em contato comigo pelo <a href='https://www.linkedin.com/in/smelo0/'>LinkedIn</a> ou pelo e-mail (melo.sara2019@gmail.com).</p>
+<p align="left">Você pode entrar em contato comigo pelo <a href='https://www.linkedin.com/in/smelo0/'>LinkedIn</a> ou pelo e-mail (sarasmelo1@gmail.com).</p>
 
 ###
