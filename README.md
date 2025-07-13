@@ -76,6 +76,8 @@
 
 ###
 
+## 🎓 Formação
+
 **Sistemas de Informação – Universidade Tiradentes (UNIT)**  
 _Fev/2023 – Dez/2026_
 
