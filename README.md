@@ -35,10 +35,25 @@
 ### 📱 Antifraude PIX – Banese Labes (2025)
 **Função:** Desenvolvedora Mobile e UI Designer  
 **Tecnologias:** Flutter, Figma 
-- Nas duas primeiras etapas do projeto, atuei como responsável pelo design da interface, criando telas no Figma com foco em acessibilidade, usabilidade e clareza visual.
-- Desenvolvi a versão mobile do projeto antifraude para transações Pix.  
-- Criação do design e codificação com Flutter.  
-- Acompanhamento de protocolos MED Pix e prevenção de fraudes.
+- Desenvolvimento da versão mobile do projeto antifraude para transações Pix.  
+- Criação do design das telas no Figma e codificação em Flutter.  
+- O app auxilia clientes na visualização de protocolos MED Pix e na prevenção de fraudes.
+
+### 🧩 Etapas Iniciais do Banese Labes – Block-Se e BlockLab (2024)
+**Função:** UI Designer  
+**Tecnologias:** Figma  
+- **Block-Se**  
+ Design de interface para app desktop com monitoramento de transações bancárias via blockchain, alertas inteligentes e IA para detecção de fraudes.  
+- **BlockLab**  
+Design de app focado na segurança digital do usuário final, bloqueio automático de contatos e sites maliciosos, histórico de bloqueios, denúncias e conteúdos educativos para identificação de fraudes.
+
+### 💚 Vitalis – Protótipo de App para Assistência a Idosos (2024)  
+**Tipo:** Projeto acadêmico (UNIT) - Matéria de Ui/Ux 
+**Tecnologia:** Figma  
+- Protótipo de app voltado para melhorar a qualidade de vida de idosos, com foco em saúde, bem-estar e comunicação.  
+- Design de interface intuitiva e acessível, com atenção às limitações físicas e tecnológicas do público-alvo.  
+- Funcionalidades como lembretes de remédio, contato com familiares, estímulos mentais e mais.  
+- Projeto criado com base em personas reais, buscando empatia e impacto social.
 
 ### 🌐 CursiFlix – Projeto Web Front-End (2023.2)
 **Tipo:** Projeto acadêmico em parceria com o Porto Digital (UNIT)  
@@ -46,7 +61,6 @@
 - Site de cursos online no estilo Netflix.  
 - Criação de interface intuitiva e responsiva.
 - Projeto realizado em equipe como parte do programa educacional UNIT + Porto Digital.
-
 
 ### 🎨 AdoPet – Protótipo de App para Adoção de Pets (2023.1)
 **Tecnologia:** Figma  
@@ -85,44 +99,19 @@ _Fev/2023 – Dez/2026_
 
 <h3 align="left">Tecnologias</h3>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h3 align="left">Ferramentas</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/SaraMelo0/SaraMelo0/output/snake.svg" alt="Snake animation" />
 
 ###
 
-## 📂 Repositórios (exemplos)
+## 📂 Repositórios
 
+- [Banese Labes - 1ª Etapa (Figma)](https://www.figma.com/design/wqgrpG48ezH8QKPq8RzyS0/Block-Se?node-id=0-1&t=CcGaV896o6UmUvoU-1)
+- [Banese Labes - 2ª Etapa (Figma)](https://www.figma.com/design/9xA4yQgNPzuopCI9n6LbHh/BlockLab?node-id=0-1&t=UyFZzg9oYbB1qk1t-1)
+- [Banese Labes - Antifraude Pix (Figma)](https://www.figma.com/design/qVdqwUOp0RPizMD5v114hl/Antifraude---PIX?node-id=0-1&t=FvIwQfYL7BSsXUSP-1)
 - [Banese Labes - Antifraude Pix - Flutter](https://github.com/SaraMelo0/Antifraude-PIX-app)
-- [Banese Labes - 1ª Etapa - Flutter](https://github.com/SaraMelo0/Antifraude-PIX-app)
+- [Protótipo Vitalis (Figma)](https://www.figma.com/design/bprSqcjhBXSZsZKpgIexlR/App---Vitalis?node-id=0-1&t=0TXlutrPVGoAXmaO-1)
 - [CursiFlix - Web App](https://github.com/SaraMelo0/CursiFlix)  
-- [Protótipo AdoPet (Figma)](https://www.figma.com/file/EXEMPLO/adopet-ui)
+- [Protótipo AdoPet (Figma)](https://www.figma.com/design/4UhxWNHPUrHpjXZ521xMfS/AdoPet?node-id=0-1&t=9ECsm3pK1YZLoEkZ-)
 
 ###
 
