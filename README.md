@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">Bem-vindo ao meu GitHub! Sou estudante de Sistemas de Informação na Universidade Tiradentes e uma entusiasta do desenvolvimento web. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.</p>
+📍 Aracaju/SE  
+📧 sarasmelo1@gmail.com  
+📱 (79) 9 9646-1175  
+🔗 [LinkedIn](https://www.linkedin.com/in/smelo0)  
+🐱 [GitHub](https://github.com/SaraMelo0)
+
+###
+
+<p align="left">Bem-vindo ao meu GitHub! Sou estudante de Sistemas de Informação e desenvolvedora em formação, com foco atual em **Flutter (mobile)** e interesse crescente em **backend**. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.</p>
 
 ###
 
@@ -12,20 +20,40 @@
 
 ###
 
-<h2 align="left">🥰 Sobre Mim</h2>
+## 🛠️ Habilidades Técnicas
+
+- **Mobile:** Flutter, Dart  
+- **UI/UX:** Figma, prototipação  
+- **Web:** HTML, CSS, JavaScript (básico)  
+- **Backend (iniciante):** Salesforce (SOQL, automações), noções de API REST  
+- **Ferramentas:** Git/GitHub, Postman, VS Code, Android Studio  
 
 ###
 
-<p align="left">Como iniciante no desenvolvimento web, estou explorando e praticando tecnologias fundamentais para criar projetos que combinam criatividade e lógica.</p>
+## 🚀 Projetos Principais
 
-###
+### 📱 Antifraude PIX – Banese Labes (2025)
+**Função:** Desenvolvedora Mobile e UI Designer  
+**Tecnologias:** Flutter, Figma 
+- Nas duas primeiras etapas do projeto, atuei como responsável pelo design da interface, criando telas no Figma com foco em acessibilidade, usabilidade e clareza visual.
+- Desenvolvi a versão mobile do projeto antifraude para transações Pix.  
+- Criação do design e codificação com Flutter.  
+- Acompanhamento de protocolos MED Pix e prevenção de fraudes.
 
-<h3 align="left">🌟 Atividades Atuais:</h3>
+### 🌐 CursiFlix – Projeto Web Front-End (2023.2)
+**Tipo:** Projeto acadêmico em parceria com o Porto Digital (UNIT)  
+**Tecnologias:** HTML, CSS, JavaScript  
+- Site de cursos online no estilo Netflix.  
+- Criação de interface intuitiva e responsiva.
+- Projeto realizado em equipe como parte do programa educacional UNIT + Porto Digital.
 
-###
 
-<p align="left">- Aprendendo novas tecnologias e aprimorando práticas no desenvolvimento web.<br>- Desenvolvendo projetos práticos para aplicar conhecimentos e construir um portfólio sólido.<br>- Buscando estágios e oportunidades de colaboração para adquirir experiência prática.</p>
-
+### 🎨 AdoPet – Protótipo de App para Adoção de Pets (2023.1)
+**Tecnologia:** Figma  
+- Criação do protótipo de um app de adoção de pets, com foco em empatia e navegação simples.  
+- Atuação na definição da identidade visual e experiência do usuário.  
+- Projeto desenvolvido em grupo dentro do programa UNIT + Porto Digital.
+  
 ###
 
 <div align="center">
@@ -34,7 +62,22 @@
 
 ###
 
-<h2 align="left">🔥 Skills</h2>
+## 💼 Experiências
+
+### Mserv Tecnologia (2024) – Estágio Salesforce  
+- Criação de campos personalizados, fluxos automatizados e regras de validação.  
+- Consultas de dados com SOQL e desenvolvimento de relatórios.  
+- Otimização de processos internos com foco na integridade dos dados.
+
+### Banese Labes (2025) – Programadora Trainee  
+- Responsável pelo desenvolvimento mobile do app Antifraude Pix.  
+- Atuação completa desde o design no Figma até a implementação em Flutter.  
+- Colaboração com equipe web e entrega validada por especialistas do Banese.
+
+###
+
+**Sistemas de Informação – Universidade Tiradentes (UNIT)**  
+_Fev/2023 – Dez/2026_
 
 ###
 
@@ -72,9 +115,19 @@
 
 ###
 
+## 📂 Repositórios (exemplos)
+
+- [Banese Labes - Antifraude Pix - Flutter](https://github.com/SaraMelo0/Antifraude-PIX-app)
+- [Banese Labes - 1ª Etapa - Flutter](https://github.com/SaraMelo0/Antifraude-PIX-app)
+- [CursiFlix - Web App](https://github.com/SaraMelo0/CursiFlix)  
+- [Protótipo AdoPet (Figma)](https://www.figma.com/file/EXEMPLO/adopet-ui)
+
+###
+
 <h3 align="left">Contato</h3>
 
 ###
+
 
 <p align="left">Você pode entrar em contato comigo pelo <a href='https://www.linkedin.com/in/smelo0/'>LinkedIn</a> ou pelo e-mail (sarasmelo1@gmail.com).</p>
 
