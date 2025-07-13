@@ -97,8 +97,6 @@ _Fev/2023 – Dez/2026_
 
 ###
 
-<h3 align="left">Tecnologias</h3>
-
 <img src="https://raw.githubusercontent.com/SaraMelo0/SaraMelo0/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -118,7 +116,6 @@ _Fev/2023 – Dez/2026_
 <h3 align="left">Contato</h3>
 
 ###
-
 
 <p align="left">Você pode entrar em contato comigo pelo <a href='https://www.linkedin.com/in/smelo0/'>LinkedIn</a> ou pelo e-mail (sarasmelo1@gmail.com).</p>
 
