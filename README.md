@@ -78,15 +78,15 @@ Design de app focado na segurança digital do usuário final, bloqueio automáti
 
 ## 💼 Experiências
 
-### Mserv Tecnologia (2024) – Estágio Salesforce  
-- Criação de campos personalizados, fluxos automatizados e regras de validação.  
-- Consultas de dados com SOQL e desenvolvimento de relatórios.  
-- Otimização de processos internos com foco na integridade dos dados.
-
 ### Banese Labes (2025) – Programadora Trainee  
 - Responsável pelo desenvolvimento mobile do app Antifraude Pix.  
 - Atuação completa desde o design no Figma até a implementação em Flutter.  
 - Colaboração com equipe web e entrega validada por especialistas do Banese.
+
+### Mserv Tecnologia (2024) – Estágio Salesforce  
+- Criação de campos personalizados, fluxos automatizados e regras de validação.  
+- Consultas de dados com SOQL e desenvolvimento de relatórios.  
+- Otimização de processos internos com foco na integridade dos dados.
 
 ###
 
