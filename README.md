@@ -1,4 +1,4 @@
-<h2 align="left">Hello, Devs! Sou Sara👋</h2>
+<h2 align="left">Conheça meus projetos – Sara Melo👋</h2>
 
 ###
 
