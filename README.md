@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img height="206" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pvdWY3eTJndmk2N2J1Z3A4NmpuNnc2eHdjY2M5eG02dmVyeDNsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eZPDf6AL3RpBa6Lhyq/giphy.gif"  />
-</div>
-
-###
-
 ## 🛠️ Habilidades Técnicas
 
 - **Mobile:** Flutter, Dart  
