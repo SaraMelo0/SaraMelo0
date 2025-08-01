@@ -3,10 +3,8 @@
 ###
 
 📍 Aracaju/SE  
-📧 sarasmelo1@gmail.com  
-📱 (79) 9 9646-1175  
+📧 sarasmelo1@gmail.com   
 🔗 [LinkedIn](https://www.linkedin.com/in/smelo0)  
-🐱 [GitHub](https://github.com/SaraMelo0)
 
 ###
 
