@@ -98,7 +98,6 @@ _Fev/2023 – Dez/2026_
 - [Banese Labes - 1ª Etapa (Figma)](https://www.figma.com/design/wqgrpG48ezH8QKPq8RzyS0/Block-Se?node-id=0-1&t=CcGaV896o6UmUvoU-1)
 - [Banese Labes - 2ª Etapa (Figma)](https://www.figma.com/design/9xA4yQgNPzuopCI9n6LbHh/BlockLab?node-id=0-1&t=UyFZzg9oYbB1qk1t-1)
 - [Banese Labes - Antifraude Pix (Figma)](https://www.figma.com/design/qVdqwUOp0RPizMD5v114hl/Antifraude---PIX?node-id=0-1&t=FvIwQfYL7BSsXUSP-1)
-- [Banese Labes - Antifraude Pix - Flutter](https://github.com/SaraMelo0/Antifraude-PIX-app)
 - [Protótipo Vitalis (Figma)](https://www.figma.com/design/bprSqcjhBXSZsZKpgIexlR/App---Vitalis?node-id=0-1&t=0TXlutrPVGoAXmaO-1)
 - [CursiFlix - Web App](https://github.com/SaraMelo0/CursiFlix)  
 - [Protótipo AdoPet (Figma)](https://www.figma.com/design/4UhxWNHPUrHpjXZ521xMfS/AdoPet?node-id=0-1&t=9ECsm3pK1YZLoEkZ-)
